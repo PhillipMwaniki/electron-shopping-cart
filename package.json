@@ -1,0 +1,23 @@
+{
+  "name": "electron-shopping-cart",
+  "version": "1.0.0",
+  "description": "Electron shopping cart test",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "electron",
+    "shopping",
+    "cart",
+    "nodejs",
+    "html5",
+    "chrome",
+    "v8"
+  ],
+  "author": "Phillip Mwaniki Nzuli",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.7.6"
+  }
+}
